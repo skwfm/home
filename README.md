@@ -1,6 +1,5 @@
 # home
 Config files for my GitHub profile.
-# profile
 # Repository
 github.com/skwfm
 # ssh
