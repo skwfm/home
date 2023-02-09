@@ -6,4 +6,3 @@ github.com/skwfm
 git@github.com:skwfm/home.git
 # https
 https://github.com/skwfm/home.git
-# About
